@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="DataBaseEditor\classs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Tarif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Teachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeClasss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeTabel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeTarif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeTeachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
